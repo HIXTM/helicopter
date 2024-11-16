@@ -1,0 +1,3 @@
+﻿  heli.cpp
+D:\с++\helicoptor\helicoptor\heli.cpp(87,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  helicoptor.vcxproj -> D:\с++\helicoptor\x64\Debug\helicoptor.exe
